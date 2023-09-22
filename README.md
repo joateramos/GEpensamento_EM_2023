@@ -1,1 +1,3 @@
-# GEpensamento_EM_2023
+# Projeto desenvolvido durante o GE 3ª Jornada Pensamento Computacional
+
+👩🏽‍🏫💻😀👩🏽‍🎓🫰🏽✨🕶️🥼🎯⚗️🧪☘️
