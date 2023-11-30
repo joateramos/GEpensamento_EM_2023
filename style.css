@@ -40,3 +40,7 @@ body{
     width: 400px;
     color: white;
 }
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
